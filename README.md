@@ -1,5 +1,6 @@
 # WWwidescreenSD
 WideBoner's Widescreen patch for Wind Waker SD USA.
+Wind Waker USA MD5:d8e4d45af2032a081a0f446384e9261b
 WideBoner's Github: https://github.com/WideBoner
 WideBoner's Youtube: https://www.youtube.com/channel/UCdQ21FiH-1627WoVCFm9CkA
 
