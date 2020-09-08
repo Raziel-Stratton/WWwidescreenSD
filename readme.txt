@@ -1,1 +1,0 @@
-Drag and drop your US The Legend of Zelda The Wind Waker ISO onto The Legend of Zelda The Wind Waker Widescreen Patcher.bat for Windows.
